@@ -1,0 +1,7 @@
+File paths
+video tag
+audio tag
+svg tag
+canvas tag
+HTML 5
+https://htmlcheatsheet.com/
