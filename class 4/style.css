@@ -1,0 +1,45 @@
+
+/* Syntax */
+h3{
+    font-size: 40px;
+}
+
+h1{
+    proerptyName: value;
+}
+
+div{
+    background-color: burlywood;
+    width: 200px;
+    width: fit-content;
+padding: 40px;
+    height: 200px;
+    height: fit-content;
+}
+
+
+h3{
+
+}
+
+p{
+    /* color by name */
+    color: blueviolet;
+    /* 0 - 250 */
+    /* color by rgb() */
+    color: rgb(25, 25, 250);
+    /* color by rgba() */
+    color: #4848af;
+    /* hex value */
+    /* hexa-decimal */
+    /* #rrggbb */
+    /* hexa-decimal number system */
+    /* color: #0000FF; */
+
+    /* color by hsl() */
+    color: hsl(0, 0%, 50%);
+    /* color by hsla() */
+    color: hsla(0, 0%, 50%, 0.5);
+
+    font-size: x-large;
+}
